@@ -1,0 +1,5 @@
+fastapi
+pytest
+uvicorn[standard]
+websockets
+wsproto
