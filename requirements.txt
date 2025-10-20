@@ -3,3 +3,4 @@ pytest
 uvicorn[standard]
 websockets
 wsproto
+httpx
